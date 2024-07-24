@@ -1,0 +1,33 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "nombre": "esponja",
+      "catergoria": "limpieza",
+      "precio": 500.00,
+      "imagen": "./esponja.jpg",
+      "detalle": "DETALLE DEL PRODUCTO"
+    },
+    {
+      "id": 2,
+      "nombre": "pinos aromatizantes",
+      "catergoria": "limpieza",
+      "precio": 250.00,
+      "imagen": "./pinito.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "shampoo ph neutro",
+      "catergoria": "limpieza",
+      "precio": 1000.00,
+      "imagen": "./shampoo.jpeg"
+    },
+    {
+      "id": 4,
+      "nombre": "trapo de microfibra",
+      "catergoria": "limpieza",
+      "precio": 450.00,
+      "imagen": "./trapo.webp"
+    }
+  ]
+}
